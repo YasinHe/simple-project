@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#002f70</color>
+    <color name="colorPrimaryDark">#002f70</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="c_f0f0f0">#f0f0f0</color>
+    <color name="c_aaaaaa">#aaaaaa</color>
+    <color name="c_000000">#000000</color>
+    <color name="c_353535">#353535</color>
+    <color name="c_002f70">#002f70</color>
+
+    <!--time-->
+    <color name="date_picker_bg">#FFFFFF</color>
+    <color name="date_picker_divider">#11112233</color>
+    <color name="date_picker_text_light">#59B29C</color>
+    <color name="date_picker_text_dark">#333333</color>
+</resources>
